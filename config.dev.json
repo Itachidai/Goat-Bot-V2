@@ -12,19 +12,14 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "Minato Slaves👀🙃🥱",
-	"prefix": "#",
+	"nickNameBot": "tera baap👀👍",
+	"prefix": ".",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-"100087975355210",
-"100086747072197",
-"100061445072616",
-"61555426905690",
-"7807198269329088",
-"100079973454666"
+"100088286122703"
 	],
 	"whiteListMode": {
 		"enable": false,
